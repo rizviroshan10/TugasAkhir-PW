@@ -1,1 +1,1 @@
-@extends('layout.welcome')
+@extends('layout.main')
