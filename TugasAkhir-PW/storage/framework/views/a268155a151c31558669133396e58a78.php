@@ -1,0 +1,2 @@
+
+<?php echo $__env->make('layout.main', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH E:\TugasAkhir-PW\TugasAkhir-PW\resources\views/gym/index.blade.php ENDPATH**/ ?>
